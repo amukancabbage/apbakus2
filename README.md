@@ -21,8 +21,9 @@ php -r "unlink('composer-setup.php');"
 ## Install Homebrew di MacOS
 
 [Sumber](https://brew.sh/), diperlukan untuk install NodeJS
+```
 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install.sh)"
-
+```
 ## Install Node di MacOS
 
 [Sumber](https://treehouse.github.io/installation-guides/mac/node-mac.html), diperlukan untuk laravel/ui
@@ -45,7 +46,7 @@ php -r "unlink('composer-setup.php');"
 
 - Role user [Sumber](https://www.wahyunanangwidodo.com/2020/04/membuat-role-users-dengan-laravel.html)
 - Verifikasi Email [Sumber](https://www.lab-informatika.com/menambahkan-email-verification-laravel)
-
+- Mastering markdown [Sumber](https://guides.github.com/features/mastering-markdown/)
 
 ## License
 
